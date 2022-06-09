@@ -1,0 +1,15 @@
+* {margin: 0;}
+
+header {
+  height: 200px;
+  border: 7px solid plum;
+  background-color: #65B4AF;
+  background-image: url(https://avatars.githubusercontent.com/u/84940058?s=280&v=4);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: 200px;
+}
+
+main {
+  background: linear-gradient(plum, rgb(170, 70, 209));
+}

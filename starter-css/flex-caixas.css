@@ -1,0 +1,25 @@
+.container {
+  display: flex;
+  gap: .8rem;
+  justify-content: center;
+  margin-top: 25px;
+  margin-bottom: 25px;
+}
+
+.itens {
+  height: 120px;
+  width: 120px;
+  border: 1px solid lightgrey;
+}
+
+.itens:nth-child(1) {
+  background: lightblue;
+}
+
+.itens:nth-child(2) {
+  background: lightsalmon;
+}
+
+.itens:nth-child(3) {
+  background: lightgreen;
+}

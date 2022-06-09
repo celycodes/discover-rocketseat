@@ -1,0 +1,19 @@
+button {
+  display: flex;
+  align-items: center;
+  gap: .4rem;
+  line-height: 0;
+  background: #65B4AF;
+  border: solid lightseagreen;
+  border-radius: .5rem;
+}
+
+button a {
+  color: white;
+  text-decoration: none;
+}
+
+button img {
+  width: 2rem;
+  height: 2rem;
+}

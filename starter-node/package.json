@@ -1,0 +1,16 @@
+{
+  "name": "starter-nodejs",
+  "version": "1.0.0",
+  "description": "estudando node",
+  "main": "index.js",
+  "scripts": {
+    "start": "node require.js"
+  },
+  "keywords": [
+    "learning",
+    "nodejs",
+    "estudando"
+  ],
+  "author": "celenny",
+  "license": "MIT"
+}

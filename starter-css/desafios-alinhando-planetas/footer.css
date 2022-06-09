@@ -1,0 +1,29 @@
+* {
+  margin: 0;
+}
+
+body {
+  min-height: 100vh;
+  display: flex;
+}
+
+footer {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  line-height: 0;
+  background: lightblue;
+  margin-top: auto;
+  height: 8rem;
+  flex: 1;
+  gap: .5rem;
+}
+
+footer p {
+  color: gray
+}
+
+footer img {
+  width: 2.5rem;
+  height: 2.5rem;
+}

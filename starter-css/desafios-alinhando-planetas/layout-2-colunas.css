@@ -1,0 +1,24 @@
+* {
+  border: 0;
+}
+
+.container {
+  border: 2px solid transparent;
+  display: flex;
+  gap: 1rem;
+}
+
+aside, main {
+  height: 90vh;
+  border: 1px solid gray;
+}
+
+aside {
+  background: lightgreen;
+  flex-basis: 25%;
+}
+
+main {
+  background: lightpink;
+  flex: 1;
+}
